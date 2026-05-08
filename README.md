@@ -1,3 +1,3 @@
 # zuozhuan-quiz
 
-Public
+This repository is public.
